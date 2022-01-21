@@ -1,0 +1,2 @@
+export const TOGGLLE_TRUE = "TOGGLLE_TRUE";
+export const TOGGLLE_FALSE = "TOGGLLE_FALSE";
